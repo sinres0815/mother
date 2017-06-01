@@ -1,0 +1,126 @@
+<section class="audio">
+        <img id="imgs" src="img/audio1.png" />
+        <audio src="img/time.mp3" autoplay="autoplay" loop="loop"></audio>
+    </section>
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide bd">
+                <div class="up">
+                    <div class="ani" swiper-animate-effect="zoomIn" swiper-animate-duration="0.5s" swiper-animate-delay="0.3s"><img src="img/1.png"/></div>
+                    <div class="ani" swiper-animate-effect="fadeInDown" swiper-animate-duration="0.7s" swiper-animate-delay="0.6s"><img src="img/2.png"/></div>
+                    <div class="ani" swiper-animate-effect="fadeInDown" swiper-animate-duration="1s" swiper-animate-delay="1s">—— 母亲节快乐 ——</div>
+                    <div class="ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="1s" swiper-animate-delay="1s">· 为爱让步 ·</div>
+                </div>
+                <div class="ani" swiper-animate-effect="fadeInRight" swiper-animate-duration="1s" swiper-animate-delay="1s"><img src="img/mother.png"/></div>
+                <div class="down">
+                    <div class="move0 bb"><img src="img/3.png"/></div>
+                    <div class="move00 ll"><img src="img/3.png"/></div>
+                </div>
+            </div>
+            <div class="swiper-slide big">
+                <div class="up_a">
+                    <div class="ani" swiper-animate-effect="zoomIn" swiper-animate-duration="0.5s" swiper-animate-delay="0.5s"><img src="img/5.png"/></div>
+                    <div class="ani" swiper-animate-effect="zoomIn" swiper-animate-duration="0.5s" swiper-animate-delay="0.3s"><img src="img/4.png"/>
+                        <p class="ani" swiper-animate-effect="bounceIn" swiper-animate-duration="1s" swiper-animate-delay="0.8s">电话里</p></div>
+                    <div class="ani" swiper-animate-effect="zoomIn" swiper-animate-duration="0.5s" swiper-animate-delay="0.5s"><img src="img/6.png"/></div>
+                </div>
+                <div class=" bolang1 move"><img src="img/3.png"/></div>
+                <div class="center1">
+                    <div class="center_a">
+                        <div class="ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="0.5s" swiper-animate-delay="2s" style="color: rgb(167, 167, 167); font-family: '微软雅黑'; font-size: 0.14rem;">知道了</div>
+                        <div class="ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="0.5s" swiper-animate-delay="3s" style="color: rgb(85, 85, 85); font-family: '微软雅黑'; font-size: 0.16rem;">哦</div>
+                        <div class="ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="0.5s" swiper-animate-delay="4s" style="color: rgb(30, 30, 30); font-family: '微软雅黑'; font-size: 0.18rem;">恩</div>
+                    </div>
+                    <div class="center_b">
+                        <div class="ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="0.5s" swiper-animate-delay="1.5s" style="color: rgb(167, 167, 167); font-family: '微软雅黑'; font-size: 0.14rem;">花钱别太省</div>
+                        <div class="ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="0.5s" swiper-animate-delay="2.5s" style="color: rgb(85, 85, 85); font-family: '微软雅黑'; font-size: 0.16rem;">工作别太辛苦</div>
+                        <div class="ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="0.5s" swiper-animate-delay="3.5s" style="color: rgb(30, 30, 30); font-family: '微软雅黑'; font-size: 0.18rem;">要早点睡</div>
+                    </div>
+                </div>
+                <div class="center2">
+                    <div class="ani" swiper-animate-effect="fadeInLeft" swiper-animate-duration="1s" swiper-animate-delay="1s"><img src="img/1.jpg"/></div>
+                    <div class="ani" swiper-animate-effect="fadeInRight" swiper-animate-duration="1s" swiper-animate-delay="1.1s"><img src="img/2.jpg"/></div>
+                </div>
+                <div class="down down_a">
+                    <div class="bolang2 move"><img src="img/3.png"/></div>
+                </div>
+            </div>
+            <div class="swiper-slide big">
+                <div class="up_a">
+                    <div class="ani" swiper-animate-effect="zoomIn" swiper-animate-duration="0.5s" swiper-animate-delay="0.5s"><img src="img/5.png"/></div>
+                    <div class="ani" swiper-animate-effect="zoomIn" swiper-animate-duration="0.5s" swiper-animate-delay="0.3s"><img src="img/4.png"/>
+                        <p class="ani" swiper-animate-effect="bounceIn" swiper-animate-duration="1s" swiper-animate-delay="0.8s">在眼中</p></div>
+                    <div class="ani" swiper-animate-effect="zoomIn" swiper-animate-duration="0.5s" swiper-animate-delay="0.5s"><img src="img/6.png"/></div>
+                </div>
+                <div class="bolang1 move1"><img src="img/3.png"/></div>
+                <div class="center1">
+                    <div class="center_a">
+                        <div class="ani she" swiper-animate-effect="fadeInDown" swiper-animate-duration="1s" swiper-animate-delay="1s">她的眼中只有</div>
+                    </div>
+                    <div class="center_b">
+                        <div class="ani me" swiper-animate-effect="fadeInDown" swiper-animate-duration="1s" swiper-animate-delay="2s">我的眼中却是</div>
+                    </div>
+                </div>
+                <div class="center2 three">
+                    <div class="ani" swiper-animate-effect="fadeInLeft" swiper-animate-duration="1s" swiper-animate-delay="1.5s"><img src="img/3.jpg"/></div>
+                    <div class="ani" swiper-animate-effect="fadeInRight" swiper-animate-duration="1s" swiper-animate-delay="2.5s"><img src="img/4.jpg"/></div>
+                </div>
+                <div class="down down_a">
+                    <div class="bolang2 move1"><img src="img/3.png"/></div>
+                </div>
+            </div>
+            <div class="swiper-slide big">
+                <div class="up_a">
+                    <div class="ani" swiper-animate-effect="zoomIn" swiper-animate-duration="0.5s" swiper-animate-delay="0.5s"><img src="img/5.png"/></div>
+                    <div class="ani" swiper-animate-effect="zoomIn" swiper-animate-duration="0.5s" swiper-animate-delay="0.3s"><img src="img/4.png"/>
+                        <p class="ani" swiper-animate-effect="bounceIn" swiper-animate-duration="1s" swiper-animate-delay="0.8s">时间都去哪了</p></div>
+                    <div class="ani" swiper-animate-effect="zoomIn" swiper-animate-duration="0.5s" swiper-animate-delay="0.5s"><img src="img/6.png"/></div>
+                </div>
+                <div class="bolang1 move2"><img src="img/3.png"/></div>
+                <div class="center1">
+                    <div class="center_a l">
+                        <div class="ani say" swiper-animate-effect="fadeInDown" swiper-animate-duration="1s" swiper-animate-delay="1.5s">孩子别老玩手机，陪妈妈说说话吧...</div>
+                    </div>
+                    <div class="center_b r">
+                        <div class="ani borde" swiper-animate-effect="fadeInDown" swiper-animate-duration="1s" swiper-animate-delay="2.5s">别吵我，这局还没打完呢！</div>
+                    </div>
+                </div>
+                <div class="center2 four">
+                    <div class="ani four_a" swiper-animate-effect="fadeInLeft" swiper-animate-duration="1s" swiper-animate-delay="1s"><img src="img/5.jpg"/></div>
+                    <div class="ani four_b" swiper-animate-effect="fadeInRight" swiper-animate-duration="1s" swiper-animate-delay="2s"><img src="img/6.jpg"/></div>
+                </div>
+                <div class="down down_a">
+                    <div class="bolang2 move2"><img src="img/3.png"/></div>
+                </div>
+            </div>
+            <div class="swiper-slide big">
+                <div class="up_a">
+                    <div class="ani" swiper-animate-effect="zoomIn" swiper-animate-duration="0.5s" swiper-animate-delay="0.5s"><img src="img/5.png"/></div>
+                    <div class="ani" swiper-animate-effect="zoomIn" swiper-animate-duration="0.5s" swiper-animate-delay="0.3s"><img src="img/4.png"/>
+                        <p class="ani" swiper-animate-effect="bounceIn" swiper-animate-duration="1s" swiper-animate-delay="0.8s">为爱让步</p></div>
+                    <div class="ani" swiper-animate-effect="zoomIn" swiper-animate-duration="0.5s" swiper-animate-delay="0.5s"><img src="img/6.png"/></div>
+                </div>
+                <div class="bolang1 move3"><img src="img/3.png"/></div>
+                <div class="center1 last">
+                    <div  class="ani" swiper-animate-effect=" fadeInUp" swiper-animate-duration="1s" swiper-animate-delay="2.5s">为爱让步</div>
+                    <div class="ani" swiper-animate-effect=" fadeInUp" swiper-animate-duration="1s" swiper-animate-delay="2.5s">转身看一看</div>
+                    <div class="ani" swiper-animate-effect=" zoomIn" swiper-animate-duration="1s" swiper-animate-delay="3s"><img src="img/7.png"/></div>
+                </div>
+                <div class="center2 five">
+                    <div class="ani five_a" swiper-animate-effect="fadeInLeft" swiper-animate-duration="1s" swiper-animate-delay="1s"><img src="img/7.jpg"/></div>
+                    <div class="ani five_b" swiper-animate-effect="fadeInRight" swiper-animate-duration="1s" swiper-animate-delay="2s"><img src="img/8.jpg"/></div>
+                </div>
+                <div class="down down_a">
+                    <div class="bolang2 move3"><img src="img/3.png"/></div>
+                </div>
+            </div>
+
+             <div class="swiper-slide charu">
+               
+            </div>
+        </div>
+        <!-- 如果需要分页器 -->
+        <div class="swiper-pagination"></div>
+        
+    
+    </div>
